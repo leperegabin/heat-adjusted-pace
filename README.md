@@ -7,7 +7,7 @@
 ## Calculateur / Calculator
 
 Ouvrez [`equal_effort_pace_calculator.html`](equal_effort_pace_calculator.html) (bilingue FR/EN, fonctionne dans le navigateur, sans serveur).
-Page en ligne / live page : `https://<votre-compte>.github.io/heat-adjusted-pace/equal_effort_pace_calculator.html`
+Page en ligne / live page : `https://leperegabin.github.io/heat-adjusted-pace/equal_effort_pace_calculator.html`
 
 ## Contenu / Contents
 
