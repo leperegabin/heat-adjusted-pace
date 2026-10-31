@@ -1,0 +1,102 @@
+ville,pays,pays_iso,nom_geonames,region,lat,lon,fuseau,geocodage_approx,note_geocodage
+Aix En Provence,FRA,FR,Aix-en-Provence,Provence-Alpes-Cote d'Azur,43.5283,5.44973,Europe/Paris,0,
+Amsterdam,NED,NL,Amsterdam,North Holland,52.37403,4.88969,Europe/Amsterdam,0,
+Annecy,FRA,FR,Annecy,Rhone-Alpes,45.9,6.11667,Europe/Paris,0,
+Arras,FRA,FR,Arras,Nord-Pas-de-Calais,50.29301,2.78186,Europe/Paris,0,
+"Atlanta, GA",USA,US,Atlanta,Georgia,33.749,-84.38798,America/New_York,0,
+Auxerre,FRA,FR,Auxerre,Bourgogne,47.8,3.56667,Europe/Paris,0,
+Bali,INA,ID,Ubud,Bali,-8.5098,115.2654,Asia/Makassar,1,"Île de Bali : Ubud (régence de Gianyar, où se court le Maybank Marathon)."
+Belfast,GBR,GB,Belfast,Northern Ireland,54.58333,-5.93333,Europe/London,0,
+Bengaluru,IND,IN,Bangalore,Karnataka,12.97194,77.59369,Asia/Kolkata,0,Nom GeoNames de Bengaluru.
+Beograd,SRB,RS,Belgrade,Central Serbia,44.80401,20.46513,Europe/Belgrade,0,Nom GeoNames de Beograd.
+Berlin,GER,DE,Berlin,Berlin,52.52437,13.41053,Europe/Berlin,0,
+Bogotá,COL,CO,Bogota,Bogota D.C.,4.60971,-74.08175,America/Bogota,0,
+Bordeaux,FRA,FR,Bordeaux,Aquitaine,44.84044,-0.5805,Europe/Paris,0,
+"Boston, MA",USA,US,Boston,Massachusetts,42.35843,-71.05977,America/New_York,0,
+"Boulder, CO",USA,US,Boulder,Colorado,40.01499,-105.27055,America/Denver,0,
+Boulogne Billancourt,FRA,FR,Boulogne-Billancourt,Ile-de-France,48.83333,2.25,Europe/Paris,0,
+Boulogne Sur Mer,FRA,FR,Boulogne-sur-Mer,Nord-Pas-de-Calais,50.71667,1.61667,Europe/Paris,0,
+Braga,POR,PT,Braga,Braga,41.55032,-8.42005,Europe/Lisbon,0,
+Brest,FRA,FR,Brest,Brittany,48.4,-4.48333,Europe/Paris,0,
+Buenos Aires,ARG,AR,Buenos Aires,Buenos Aires F.D.,-34.61315,-58.37723,America/Argentina/Buenos_Aires,0,
+Burnaby,CAN,CA,Burnaby,British Columbia,49.26636,-122.95263,America/Vancouver,0,
+Cali,COL,CO,Cali,Valle del Cauca,3.43722,-76.5225,America/Bogota,0,
+"Cape Elizabeth, ME",USA,US,South Portland,Maine,43.64147,-70.24088,America/New_York,1,"Cape Elizabeth absent de la base : South Portland, à ~5 km."
+Cape Town,RSA,ZA,Cape Town,Western Cape,-33.92584,18.42322,Africa/Johannesburg,0,
+"Chicago, IL",USA,US,Chicago,Illinois,41.85003,-87.65005,America/Chicago,0,
+Cholet,FRA,FR,Cholet,Pays de la Loire,47.06667,-0.88333,Europe/Paris,0,
+Chon Buri,THA,TH,Chon Buri,Chon Buri,13.3622,100.98345,Asia/Bangkok,0,
+Ciudad de México,MEX,MX,Mexico City,Mexico City,19.42847,-99.12766,America/Mexico_City,0,Nom GeoNames de Ciudad de México.
+Coimbra,POR,PT,Coimbra,Coimbra,40.20564,-8.41955,Europe/Lisbon,0,
+Copenhagen,DEN,DK,Copenhagen,Capital Region,55.67594,12.56553,Europe/Copenhagen,0,
+Daegu,KOR,KR,Daegu,Daegu,35.87028,128.59111,Asia/Seoul,0,
+Dessau,GER,DE,Dessau,Saxony-Anhalt,51.83864,12.24555,Europe/Berlin,0,
+Doha,QAT,QA,Doha,Baladiyat ad Dawhah,25.27932,51.52245,Asia/Qatar,0,
+"Duluth, MN",USA,US,Duluth,Minnesota,46.78327,-92.10658,America/Chicago,0,
+Forbach,FRA,FR,Forbach,Lorraine,49.18333,6.9,Europe/Paris,0,
+Frejus,FRA,FR,Frejus,Provence-Alpes-Cote d'Azur,43.43286,6.73524,Europe/Paris,0,
+Fretin,FRA,FR,Fretin,Nord-Pas-de-Calais,50.55745,3.13668,Europe/Paris,0,
+Gold Coast,AUS,AU,Gold Coast,Queensland,-28.00029,153.43088,Australia/Brisbane,0,
+Guadalajara,MEX,MX,Guadalajara,Jalisco,20.66682,-103.39182,America/Mexico_City,0,
+Guiyang,CHN,CN,Guiyang,Guizhou Sheng,26.58333,106.71667,Asia/Shanghai,0,Homonymes en Chine : capitale du Guizhou.
+Gujan Mestras,FRA,FR,Gujan-Mestras,Aquitaine,44.63333,-1.06667,Europe/Paris,0,
+Heusden-Zolder,BEL,BE,Heusden,Flanders,51.03664,5.28013,Europe/Brussels,0,"Heusden (Limbourg), section de la commune de Heusden-Zolder."
+Hong Kong,HKG,HK,Hong Kong,,22.28552,114.15769,Asia/Hong_Kong,0,
+"Houston, TX",USA,US,Houston,Texas,29.76328,-95.36327,America/Chicago,0,
+Jakarta,INA,ID,Jakarta,Jakarta Raya,-6.21462,106.84513,Asia/Jakarta,0,
+Jilin,CHN,CN,Jilin,Jilin Sheng,43.85083,126.56028,Asia/Shanghai,0,
+Kigali,RWA,RW,Kigali,Kigali,-1.94995,30.05885,Africa/Kigali,0,
+Lagos,NGR,NG,Lagos,Lagos,6.45407,3.39467,Africa/Lagos,0,
+Langueux,FRA,FR,Langueux,Brittany,48.495,-2.7185,Europe/Paris,0,
+Lanzhou,CHN,CN,Lanzhou,Gansu Sheng,36.05701,103.83987,Asia/Shanghai,0,
+Larne,GBR,GB,Larne,Northern Ireland,54.85,-5.81667,Europe/London,0,
+Les Sables D'Olonne,FRA,FR,Les Sables-d'Olonne,Pays de la Loire,46.5,-1.78333,Europe/Paris,0,
+Lignano Sabbiadoro,ITA,IT,Lignano Sabbiadoro,Friuli Venezia Giulia,45.6759,13.11727,Europe/Rome,0,
+Lille,FRA,FR,Lille,Nord-Pas-de-Calais,50.63297,3.05858,Europe/Paris,0,
+Lima,PER,PE,Lima,Lima,-12.04318,-77.02824,America/Lima,0,
+Lisboa,POR,PT,Lisbon,Lisbon,38.71667,-9.13333,Europe/Lisbon,0,Nom GeoNames de Lisboa.
+Liège,BEL,BE,Liege,Wallonia,50.63373,5.56749,Europe/Brussels,0,
+London,GBR,GB,London,England,51.50853,-0.12574,Europe/London,0,
+Lyon,FRA,FR,Lyon,Rhone-Alpes,45.74846,4.84671,Europe/Paris,0,
+Maia,POR,PT,Maia,Porto,41.23574,-8.6199,Europe/Lisbon,0,
+Maisons-Laffitte,FRA,FR,Maisons-Laffitte,Ile-de-France,48.95264,2.14521,Europe/Paris,0,
+Manchester,GBR,GB,Manchester,England,53.48095,-2.23743,Europe/London,0,
+Marseille,FRA,FR,Marseille,Provence-Alpes-Cote d'Azur,43.29695,5.38107,Europe/Paris,0,
+Milano,ITA,IT,Milano,Lombardy,45.46427,9.18951,Europe/Rome,0,
+Montgeron,FRA,FR,Montgeron,Ile-de-France,48.70543,2.45039,Europe/Paris,0,
+Montreuil,FRA,FR,Montreuil,Ile-de-France,48.86415,2.44322,Europe/Paris,0,Meeting international de Montreuil (Seine-Saint-Denis).
+Mumbai,IND,IN,Mumbai,Maharashtra,19.07283,72.88261,Asia/Kolkata,0,
+"New York, NY",USA,US,New York City,New York,40.71427,-74.00597,America/New_York,0,Nom GeoNames de New York.
+Nice,FRA,FR,Nice,Provence-Alpes-Cote d'Azur,43.70313,7.26608,Europe/Paris,0,
+Noisy Le Grand,FRA,FR,Noisy-le-Grand,Ile-de-France,48.84979,2.56266,Europe/Paris,0,
+Oordegem,BEL,BE,Wetteren,Flanders,51.00526,3.88341,Europe/Brussels,1,"Oordegem (commune de Lede) absent de la base : Wetteren, à ~4 km."
+Ordizia,ESP,ES,Villafranca de Ordizia,Basque Country,43.0541,-2.17632,Europe/Madrid,0,Nom officiel complet d'Ordizia dans GeoNames.
+Osaka,JPN,JP,Osaka-shi,Osaka,34.69374,135.50218,Asia/Tokyo,0,Nom GeoNames d'Osaka.
+Ottawa,CAN,CA,Ottawa,Ontario,45.41117,-75.69812,America/Toronto,0,
+Paris,FRA,FR,Paris,Ile-de-France,48.85341,2.3488,Europe/Paris,0,
+"Pittsburgh, PA",USA,US,Pittsburgh,Pennsylvania,40.44062,-79.99589,America/New_York,0,
+Port Gentil,GAB,GA,Port-Gentil,Ogooue-Maritime,-0.71933,8.78151,Africa/Libreville,0,
+"Portland, OR",USA,US,Portland,Oregon,45.52345,-122.67621,America/Los_Angeles,0,
+Porto,POR,PT,Porto,Porto,41.14961,-8.61099,Europe/Lisbon,0,
+Praha,CZE,CZ,Prague,Praha,50.08804,14.42076,Europe/Prague,0,Nom GeoNames de Praha.
+Rabat,MAR,MA,Rabat,Rabat-Sale-Zemmour-Zaer,34.01325,-6.83255,Africa/Casablanca,0,
+Riga,LAT,LV,Riga,Riga,56.946,24.10589,Europe/Riga,0,
+Rotterdam,NED,NL,Rotterdam,South Holland,51.9225,4.47917,Europe/Amsterdam,0,
+Sainte Adresse,FRA,FR,Sainte-Adresse,Haute-Normandie,49.5089,0.08446,Europe/Paris,0,
+San Juan de los Lagos,MEX,MX,San Juan de los Lagos,Jalisco,21.24891,-102.33184,America/Mexico_City,0,
+Sapporo,JPN,JP,Sapporo,Hokkaido,43.06417,141.34695,Asia/Tokyo,0,
+Seoul,KOR,KR,Seoul,Seoul,37.566,126.9784,Asia/Seoul,0,
+Shanghai,CHN,CN,Shanghai,Shanghai Shi,31.22222,121.45806,Asia/Shanghai,0,
+Smederevo,SRB,RS,Smederevo,Central Serbia,44.66278,20.93,Europe/Belgrade,0,
+Stockholm,SWE,SE,Stockholm,Stockholm,59.33258,18.0649,Europe/Stockholm,0,
+Sunshine Coast,AUS,AU,Mooloolaba,Queensland,-26.68164,153.11925,Australia/Brisbane,1,"Région de la Sunshine Coast : Mooloolaba (course à Alexandra Headland, voisine)."
+Sydney,AUS,AU,Sydney,New South Wales,-33.86785,151.20732,Australia/Sydney,0,
+Taiyuan,CHN,CN,Taiyuan,Shanxi Sheng,37.86944,112.56028,Asia/Shanghai,0,Homonymes en Chine : capitale du Shanxi.
+Tallinn,EST,EE,Tallinn,Harju,59.43696,24.75353,Europe/Tallinn,0,
+Tampere,FIN,FI,Tampere,Pirkanmaa,61.49911,23.78712,Europe/Helsinki,0,
+Tokyo,JPN,JP,Tokyo,Tokyo,35.6895,139.69171,Asia/Tokyo,0,
+Troyes,FRA,FR,Troyes,Champagne-Ardenne,48.3,4.08333,Europe/Paris,0,
+Valencia,ESP,ES,Valencia,Valencia,39.46975,-0.37739,Europe/Madrid,0,
+Warszawa,POL,PL,Warsaw,Masovian Voivodeship,52.22977,21.01178,Europe/Warsaw,0,Nom GeoNames de Warszawa.
+Wuxi,CHN,CN,Wuxi,Jiangsu Sheng,31.56887,120.28857,Asia/Shanghai,0,Homonymes en Chine : Wuxi (Jiangsu).
+Yangzhou,CHN,CN,Yangzhou,Jiangsu Sheng,32.39722,119.43583,Asia/Shanghai,0,Homonymes en Chine : Yangzhou (Jiangsu).

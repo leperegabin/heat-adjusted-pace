@@ -1,0 +1,12 @@
+# Jeu de données privé : non distribué / private data set: not distributed
+dataset_ml.csv
+
+# Fichiers temporaires / temporary files
+__pycache__/
+.DS_Store
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
